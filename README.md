@@ -2,4 +2,8 @@
 this is a  dummy repository
 
 
-some changes
+NEW CHANGES LOCALLY...
+
+NEW CHANGES REMOTELY
+
+NEW CHANGE FROM DIFFERENT USER
