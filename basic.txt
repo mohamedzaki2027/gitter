@@ -1,3 +1,2 @@
 basic
-
-'Main branch change to have conflict :)
+Main branch change to have conflict :)
